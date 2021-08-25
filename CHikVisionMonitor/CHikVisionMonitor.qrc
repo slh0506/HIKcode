@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/CHikVisionMonitor">
+        <file>StyleSheet.qss</file>
+        <file>Resources/device.png</file>
+        <file>Resources/preview.png</file>
+        <file>Resources/review.png</file>
+        <file>Resources/online.png</file>
+        <file>Resources/offline.png</file>
+        <file>Resources/Hik.ico</file>
+        <file>Resources/sound.png</file>
+        <file>Resources/saveReal.png</file>
+        <file>Resources/stopReal.png</file>
+        <file>Resources/stepback.png</file>
+        <file>Resources/stepon.png</file>
+        <file>Resources/alarm.png</file>
+    </qresource>
+</RCC>

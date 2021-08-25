@@ -1,0 +1,14 @@
+﻿  Moc'ing DeviceInit.h...
+  moc_AlarmDevice.cpp
+  moc_CDeviceManagement.cpp
+  moc_CHikVisionMonitor.cpp
+  moc_DeviceInit.cpp
+  AlarmDevice.cpp
+  CDeviceManagement.cpp
+  CHikVisionMonitor.cpp
+  DeviceInit.cpp
+  MonitorDatabase.cpp
+  main.cpp
+e:\qt demo\chikvisionmonitor\chikvisionmonitor\chikvisionmonitor.cpp(853): warning C4715: “CHikVisionMonitor::eventFilter”: 不是所有的控件路径都返回值
+  CHikVisionMonitor.vcxproj -> E:\Qt demo\CHikVisionMonitor\Win32\Debug\CHikVisionMonitor.exe
+  CHikVisionMonitor.vcxproj -> E:\Qt demo\CHikVisionMonitor\Win32\Debug\CHikVisionMonitor.pdb (Full PDB)
